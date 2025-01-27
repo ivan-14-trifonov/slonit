@@ -10,4 +10,4 @@
 *репозиторий создан*
 
 ## Задание 4
-[/task_4](https://github.com/ivan-14-trifonov/slonit/task_4)
+[/task_4](https://github.com/ivan-14-trifonov/slonit/tree/master/task_4)
