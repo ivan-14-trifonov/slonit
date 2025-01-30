@@ -11,3 +11,9 @@
 
 ## Задание 4
 [/task_4](https://github.com/ivan-14-trifonov/slonit/tree/master/task_4)
+
+## Задание 5
+*выполнено*
+
+## Задание 6
+[/task_6](https://github.com/ivan-14-trifonov/slonit/tree/master/task_6)
