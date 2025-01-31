@@ -17,3 +17,12 @@
 
 ## Задание 6
 [/task_6](https://github.com/ivan-14-trifonov/slonit/tree/master/task_6)
+
+## Задание 7
+*изучено*
+
+## Задание 8
+*выполнено*
+
+## Задание 9
+[/task_9](https://github.com/ivan-14-trifonov/slonit/tree/master/task_9)
