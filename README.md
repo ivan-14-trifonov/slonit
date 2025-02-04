@@ -38,3 +38,6 @@
 
 ## Задание 13
 [/task_13](https://github.com/ivan-14-trifonov/slonit/tree/master/task_13)
+
+## Задание 14
+[/task_14](https://github.com/ivan-14-trifonov/slonit/tree/master/task_14)
