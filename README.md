@@ -29,3 +29,6 @@
 
 ## Задание 10
 [/task_10](https://github.com/ivan-14-trifonov/slonit/tree/master/task_10)
+
+## Задание 11
+[/task_11](https://github.com/ivan-14-trifonov/slonit/tree/master/task_11)
