@@ -41,3 +41,6 @@
 
 ## Задание 14
 [/task_14](https://github.com/ivan-14-trifonov/slonit/tree/master/task_14)
+
+## Задание 15
+[/task_15](https://github.com/ivan-14-trifonov/slonit/tree/master/task_15)
